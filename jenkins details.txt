@@ -1,0 +1,3 @@
+JENKINS 
+PASSWORD NAME kavyanjali = Kavya2018
+java -jar jenkins.war

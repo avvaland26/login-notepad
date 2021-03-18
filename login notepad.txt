@@ -1,0 +1,9 @@
+Feature: Category list on Home page
+	  Category list is visible to user and navigation to each Category page is possible
+
+Scenario: User should be able to see the Categories list on homepage
+When user opens a browser
+And types the url “www.abconline.com”
+Then user should be able to see the Categories list on Homepage
+
+
